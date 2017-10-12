@@ -1,0 +1,1 @@
+python3 $SCRIPTSPATH/downloadPrediction.py $1 $2 $3

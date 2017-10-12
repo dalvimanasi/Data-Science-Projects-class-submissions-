@@ -1,0 +1,36 @@
+StoryTypeID,StoryDesc
+1,Attic & Basement
+2,Attic
+3,Bi-Level with Attic & Basement
+4,Bi-Level
+5,Bi-Level with Attic
+6,Bi-Level with Basement
+7,Basement
+8,Split Entry with Attic & Basement
+9,Split Foyer with Attic & Basement
+10,Level with Attic & Basement
+11,Level with Attic
+12,Level with Basement
+13,Level
+14,Multi-Level with Attic & Basement
+15,Multi-Level
+16,Multi-Level with Attic
+17,Multi-Level with Basement
+18,Split Level with Attic & Basement
+19,Single Level with Attic & Basement
+20,Split Entry with Attic
+21,Split Entry with Basement
+22,Split Foyer with Attic
+23,Split Foyer with Basement
+24,Single Level with Attic
+25,Single Level with Basement
+26,Single Level
+27,Split Level with Attic
+28,Split Level with Basement
+29,Split Entry
+30,Split Foyer
+31,Split Level
+32,Tri-level with Attic & Basement
+33,Tri-level with Attic
+34,Tri-level with Basement
+35,Tri-level

@@ -1,0 +1,1 @@
+python3 $SCRIPTSPATH/predictMultipleQuarters.py $1 $2 $3 $4
